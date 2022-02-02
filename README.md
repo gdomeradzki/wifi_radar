@@ -4,8 +4,7 @@ Wi-Fi radar that collects info about devices around
 ## Quick start
 
 ``` 
-docker build -t radar
-docker run -dt radar
+docker-compose up -d
 ```
 
 ## Tested hardware 
